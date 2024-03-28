@@ -2,8 +2,6 @@
 
 · 🌱 I’m interested in coding
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=longthinh&showicons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/longthinh/github-readme-stats)
-
 # action-ipadown
 
 Download old versions of app using Github Actions, without computers!
